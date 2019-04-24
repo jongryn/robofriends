@@ -2,7 +2,7 @@
 
 # Find your Robo Friends!
 
-A Robo Friend Finder Application With React/Tachyons/RobohashAPI/JSONPlaceholderAPI
+A Robo Friend Finder Application With React/Tachyons/RobohashAPI/JSONPlaceholderAPI/Heroku
 
 ## Description
 
